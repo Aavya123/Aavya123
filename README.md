@@ -1,6 +1,6 @@
 ## Hi there 👋
 <h1 align="center">Hi 👋, I'm  Aavya Agrawal</h1>
-<h3 align="center">Full Stack & DevOps Enthusiast | Building ShagunVerse 🚀 | Passionate about AI, Cloud & Open Source.</h3>
+<h3 align="center">Full Stack & DevOps Enthusiast | Passionate about AI, Cloud & Open Source.</h3>
 
 - 🔭 I’m currently working on **Frontend & Java projects**
 # 💫 About Me:
