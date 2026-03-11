@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on **Frontend & Java projects**
 # 💫 About Me:
-🔭 I’m currently working on Frontend & Java projects<br><br>🌱 I’m currently learning Frontend, Java, DSA, React, DBMS, AI<br><br>👯 I’m looking to collaborate on Beginner web & Java projects<br><br>🤝 I’m looking for help with Java DSA, React & project docs<br><br>💬 Ask me about HTML, CSS, JS, Java
+🔭 I’m currently working on Frontend ,Backend & Java projects<br><br>🌱 I’m currently learning Frontend,Backend,Java, DSA, React, DBMS, AI<br><br>👯 I’m looking to collaborate on Beginner web & Java projects<br><br>🤝 I’m looking for help with Java DSA, React & project docs<br><br>💬 Ask me about HTML, CSS, JS, Java
 
-- 🌱 I’m currently learning **Frontend, Java, DSA, React, DBMS, AI**
+- 🌱 I’m currently learning **Frontend, Backend, Java, DSA, React, DBMS, AI**
 
 - 👯 I’m looking to collaborate on **Beginner web & Java projects**
 ## 🌐 Socials:
